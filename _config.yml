@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Justice Template
-url: "https://orchid-heron.cloudvent.net"
+title: Studio Campisi
+url: "studiocampisi.eu"
 baseurl: 
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -11,9 +11,9 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Jekyll template with example content for a law firm.
-author:
-  name:
-  email:
+author: Leandro Campisi
+  name: 
+  email: 
   twitter: # twitter username without the @ symbol
 social:
   name: Justice Template

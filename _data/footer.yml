@@ -13,18 +13,10 @@
 - title: Social
   links:
     - name: Facebook
-      link: http://facebook.com/cloudcannon/
+      link: http://facebook.com/studiocampisi/
       social_icon: Facebook
       new_window: true
-    - name: Twitter
-      link: http://twitter.com/cloudcannon
-      social_icon: Twitter
-      new_window: true
-    - name: Instagram
-      link: http://instagram.com/
-      social_icon: Instagram
-      new_window: true
     - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon/
+      link: https://nz.linkedin.com/company/studiocampisi/
       social_icon: LinkedIn
       new_window: true
